@@ -21,12 +21,6 @@
     "type": "git",
     "url": "git@github.com:chadsmith/react-native-microphone-stream.git"
   },
-  "files": [
-    "MicrophoneStream.js",
-    "android/src",
-    "android/build.gradle",
-    "ios"
-  ],
   "main": "MicrophoneStream.js",
   "peerDependencies": {
     "react-native": ">=0.47"
